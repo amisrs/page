@@ -1,6 +1,6 @@
 # Unity Virtual Reality
-I built a game in Unity as part of my undergraduate honour's thesis.
-It was short a simulation of working conditions in certain manufacturing plants, consisting of both VR and normal desktop versions.
+I built a game in Unity as part of my undergraduate honour's thesis.  
+It was short a simulation of working conditions in certain manufacturing plants, consisting of both VR and normal desktop versions.  
 The goal of the project was to observe the differences in learning outcomes and empathy between VR and desktop.
 
 ![factory](/page/images/factory.jpg)
