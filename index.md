@@ -10,5 +10,5 @@ But now I would like to show you some projects that I have had fun with.
 ### [Jump](/page/unity1)
 [![demo gif](/page/images/demo.gif)](/page/unity1)
 
-### [VR Simulation](page/unity2)
-[![factory](/page/images/factory.jpg)](page/unity2)
+### [VR Simulation](/page/unity2)
+[![factory](/page/images/factory.jpg)](/page/unity2)
