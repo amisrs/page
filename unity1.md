@@ -1,4 +1,4 @@
-## Unity
+# Jump
 A significant hobby project I worked on was a rocket-jump platformer. 
 
 [![demo gif](/page/images/demo.gif)](/page/images/demo.webm)
@@ -8,7 +8,7 @@ Most of the work went into:
 - Custom physics-based character controller
 - Flexible camera controller
   
-# Gifs (click for webm)
+### Gifs (click for webm)
 Adding a level in world editor, with automatic detection of entrances and exits.  
 [![addlevel gif](/page/images/addlevel.gif)](/page/images/addlevel.webm)
 
