@@ -14,5 +14,5 @@ Now I would like to show you some projects that I have had fun with.
 ### [VR Simulation](/page/unity2)
 [![factory](/page/images/factory.jpg)](/page/unity2)
 
-### [Random Discord Bots](/pages/bots)
+### [Random Discord Bots](/page/bots)
 ![paraparrot](/page/images/paraparrot.png)
